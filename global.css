@@ -1,0 +1,40 @@
+#graph {
+  position:absolute;
+  width:40%;
+  height:80%;
+  margin-top: 2%;
+  margin-left: 5%;
+}
+
+#article {
+  position: absolute;
+  width: 45%;
+  height: 80%;
+  margin-left: 48%;
+  font-family: 맑은고딕;
+  font-weight: bold;
+}
+
+#article p {
+  font-size: 50px;
+  text-align: center;
+}
+
+#articleTitle {
+  list-style-type: none;
+  font-size: 20px;
+}
+
+#articleTitle li{
+  margin-bottom: 10px;
+  border: 1px solid skyblue;
+  cursor: pointer;
+}
+
+#articleTitle li a{
+  font-size: 25px;
+}
+
+#articleTitle li b {
+  font-weight: 530;
+}

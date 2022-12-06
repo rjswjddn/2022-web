@@ -1,0 +1,44 @@
+
+#submenu {
+    margin-top: 20px;
+    text-align: center;
+    font-weight: 400;
+    letter-spacing: 0px;
+    width: 100%;
+    border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+#submenu button {
+  font-family: 궁서체;
+  background-color: white;
+  font-size: 30px;
+  font-weight: 300;
+  margin-left: 430px;
+  margin-right: 430px;
+  height: 40px;
+  cursor: pointer;
+}
+
+#point{
+  position: absolute;
+  width: 30%;
+  margin-left: 10%;
+  margin-top: 50px;
+  height: 700px;
+  border: 3px solid rgb(114, 114, 23);
+  font-family: 맑은고딕;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+#history{
+  position: absolute;
+  width: 30%;
+  margin-left: 60%;
+  margin-top: 50px;
+  height: 700px;
+  border: 3px solid rgb(114, 114, 23);
+  font-family: 맑은고딕;
+  font-weight: bold;
+  font-size: 19px;
+}

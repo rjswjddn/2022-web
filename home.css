@@ -1,0 +1,31 @@
+#sectionimg {
+  height: 840px;
+  width: 100%;
+}
+
+section div{
+  display: block;
+  position: absolute;
+  background-color: white;
+  left: 100px;
+  top: 200px;
+  height: 60%;
+  width: 20%;
+}
+
+#text{
+  font-family: 맑은고딕;
+  font-weight: bold;
+  color: black;
+  font-size: 25px;
+  position: absolute;
+  margin: 20px;
+}
+
+#text b{
+  font-size: 32px;
+}
+
+#text c {
+  font-size: 35px;
+}
